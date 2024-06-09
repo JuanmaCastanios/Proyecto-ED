@@ -1,0 +1,56 @@
+@options
+@packages
+-classpath
+'C:/Users/juanj/.m2/repository/com/mysql/mysql-connector-j/8.3.0/mysql-connector-j-8.3.0.jar;C:/Users/juanj/.m2/repository/com/google/protobuf/protobuf-java/3.25.1/protobuf-java-3.25.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'18'
+-sourcepath
+'C:/Grado/Entornos de Desarollo/Proyecto DSW/appHospitalmv/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Grado/Entornos de Desarollo/Proyecto DSW/appHospitalmv/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'appHospitalmv 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'appHospitalmv 1.0-SNAPSHOT API'
+com.gf.appHospitalmv
+com.gf.appHospitalmv.controller
+com.gf.appHospitalmv.dao
+com.gf.appHospitalmv.lnn
+com.gf.appHospitalmv.model
+com.gf.appHospitalmv.utils
+com.gf.appHospitalmv.view
+C:\Users\juanj\.m2\repository\com\mysql\mysql-connector-j\8.3.0\mysql-connector-j-8.3.0.jar = 1717867802242
+C:\Users\juanj\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar = 1717511315006
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\src\main\java = 1717671834000
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\allclasses-index.html = 1717940111989
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\allpackages-index.html = 1717940111992
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\copy.svg = 1717940112029
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\element-list = 1717940111802
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\help-doc.html = 1717940112021
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\index-all.html = 1717940112012
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\index.html = 1717940111974
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\member-search-index.js = 1717940111997
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\module-search-index.js = 1717940111993
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\overview-summary.html = 1717940112017
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\overview-tree.html = 1717940111969
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\package-search-index.js = 1717940111994
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\script.js = 1717940112028
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\search-page.js = 1717940112035
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\search.html = 1717940112015
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\search.js = 1717940112033
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\serialized-form.html = 1717940111905
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\stylesheet.css = 1717940112025
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\tag-search-index.js = 1717940111998
+C:\Grado\Entornos de Desarollo\Proyecto DSW\appHospitalmv\target\site\apidocs\type-search-index.js = 1717940111995
